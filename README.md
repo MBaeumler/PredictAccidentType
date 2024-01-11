@@ -7,4 +7,5 @@ Automated driving systems should be able to avoid road traffic accidents and dri
 ## Early pre-print
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4295798
 
-
+## Reference 
+Please cite the pre-print. 
